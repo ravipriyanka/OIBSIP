@@ -1,1 +1,3 @@
-# OIBSIP
+# SIMPLE CALCULATOR
+Using HTML,CSS and JavaScript.
+LEVEL: TASK1
